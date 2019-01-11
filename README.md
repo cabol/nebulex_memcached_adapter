@@ -1,2 +1,3 @@
-# nebulex_memcached_adapter
-Nebulex adapter for Memcached
+# Nebulex adapter for Memcached
+
+**WIP**
